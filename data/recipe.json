@@ -1,0 +1,19 @@
+[
+   {
+      "_id":"60a61b58be1845dc354e2f5a",
+      "name":"Spaghetti Carbonara",
+      "ingredients":[
+         "200g Spaghetti",
+         "100g Pancetta",
+         "2 large eggs",
+         "50g Pecorino cheese",
+         "50g Parmesan cheese",
+         "Freshly ground black pepper",
+         "Salt"
+      ],
+      "instructions":"Cook the spaghetti according to the packet instructions. Meanwhile, fry the pancetta until crispy. Beat the eggs and mix with the cheese. When the spaghetti is done, drain and mix with the pancetta and egg-cheese mixture. Season with salt and pepper.",
+      "time":30,
+      "author":"f00571164"
+   },
+   ...
+]
